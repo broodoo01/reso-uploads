@@ -13,7 +13,7 @@
 | 01-july | funk | OK | OK |
 | 02-july | funk | OK | OK |
 | 03-july (2 files) | funk | OK | OK |
-| 04-july | broo | ? | |
+| 04-july | broo | OK | |
 | 06-july | broo | ? | |
 | 10-july | broo | ? | |
 | 11-july | funk | W | |
